@@ -1,6 +1,6 @@
 # PolicyGate IAM
 
-PolicyGate is a student-style MERN project that shows the basic IAM ideas behind users, roles, policies, and policy checks without trying to copy AWS IAM.
+PolicyGate is a MERN project that shows the basic IAM ideas behind users, roles, policies, and policy checks without trying to copy AWS IAM.
 
 ## Stack
 
