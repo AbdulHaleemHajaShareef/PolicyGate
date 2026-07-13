@@ -36,6 +36,4 @@ flowchart LR
 
 The server runs on port `5000` and the client runs on port `5173` by default.
 
-## Note
 
-This is meant to look like a believable portfolio project, not a production IAM product.
